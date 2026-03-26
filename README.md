@@ -491,44 +491,38 @@ Contrast    :  AA target
 }
 ```
 
-### JSON Token Export
+### Prompt Export
 
-```json
-{
-  "palette": {
-    "id": "palette_9f2a3c",
-    "title": "Vermillion Complementary",
-    "rule": "complementary",
-    "score": 89,
-    "createdAt": 1707868800000,
-    "swatches": [
-      {
-        "id": "sw_001",
-        "role": "base",
-        "hex": "#FF5733",
-        "rgb": [255, 87, 51],
-        "hsl": [11, 100, 60],
-        "contrastOnWhite": 3.1,
-        "contrastOnBlack": 6.8,
-        "name": "Vermillion",
-        "wcagAA": true,
-        "wcagAAA": false
-      },
-      {
-        "id": "sw_002",
-        "role": "accent",
-        "hex": "#33BDFF",
-        "rgb": [51, 189, 255],
-        "hsl": [200, 100, 60],
-        "contrastOnWhite": 2.9,
-        "contrastOnBlack": 7.3,
-        "name": "Ocean Tide",
-        "wcagAA": true,
-        "wcagAAA": false
-      }
-    ]
-  }
-}
+```ColorPrompt
+You are working with a color palette for a product design system.
+
+Palette summary:
+- Base color: #156B65
+- Harmony class: triadic
+- Variant: active
+- Overall Contrast Score: 90/100
+- Accessibility Score: 100/100
+
+Colors:
+- Base (base): #156A65
+- Primary (primary): #720679
+- Background (background): #0B0E0E
+- Text (text): #EFF6F5
+- Secondary (secondary): #797206
+
+Accessibility notes:
+- Ensure text contrast meets WCAG AA standards (4.5:1 for normal text).
+- Use the base color as the primary brand anchor.
+- Use the accent color sparingly for emphasis.
+- Best used with clear semantic roles.
+
+Task:
+Create a polished design direction using this palette for a modern SaaS dashboard.
+
+Requirements:
+- Keep the style clean, premium, and readable.
+- Provide specific guidance on which colors to use for backgrounds, surfaces, primary buttons, borders, and text.
+- Return a practical implementation-ready response.
 ```
 
 <br />
