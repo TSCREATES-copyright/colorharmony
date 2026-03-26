@@ -210,19 +210,8 @@ All palettes live in your browser — no account required. Save, tag, version, a
 }
 ```
 
-```json
-{
-  "colors": {
-    "base":    { "value": "#3B82F6", "role": "primary",    "name": "Blue 500"   },
-    "accent":  { "value": "#F6923B", "role": "accent",     "name": "Warm Ember" },
-    "support": { "value": "#1E3A5F", "role": "support",    "name": "Navy Deep"  },
-    "surface": { "value": "#F6E8D4", "role": "background", "name": "Linen Mist" },
-    "text":    { "value": "#0F172A", "role": "text",       "name": "Ink Black"  }
-  }
-}
-```
 
-Export as CSS variables, JSON design tokens, or Tailwind-style config. Copy the full palette to clipboard in one click. All export formats are immediately usable in production code.
+Export as CSS variables, Prompt tokens, or Tailwind-style config. Copy the full palette to clipboard in one click. All export formats are immediately usable in production code.
 
 **Outcome:** Zero-friction handoff from palette to codebase.
 
@@ -497,18 +486,18 @@ Contrast    :  AA target
 You are working with a color palette for a product design system.
 
 Palette summary:
-- Base color: #156B65
+- Base color: #FF5733
 - Harmony class: triadic
 - Variant: active
 - Overall Contrast Score: 90/100
 - Accessibility Score: 100/100
 
 Colors:
-- Base (base): #156A65
-- Primary (primary): #720679
-- Background (background): #0B0E0E
-- Text (text): #EFF6F5
-- Secondary (secondary): #797206
+- Base (base): #FF5833
+- Primary (primary): #33FF58
+- Background (background): #FBF9F9
+- Text (text): #211512
+- Secondary (secondary): #5833FF
 
 Accessibility notes:
 - Ensure text contrast meets WCAG AA standards (4.5:1 for normal text).
