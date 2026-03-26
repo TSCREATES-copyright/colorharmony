@@ -1,0 +1,5 @@
+{
+  "name": "ColorHarmony",
+  "description": "A browser-only, deterministic color system for generating usable palettes instantly.",
+  "requestFramePermissions": []
+}

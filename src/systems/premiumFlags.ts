@@ -1,0 +1,7 @@
+export const PREMIUM_FEATURES = {
+  UNLIMITED_GENERATIONS: true,
+  UNLIMITED_HISTORY: true,
+  CONTRAST_ANALYZER: true,
+  PALETTE_LAB: true,
+  COLOR_PROMPT: true,
+};
