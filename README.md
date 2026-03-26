@@ -1424,12 +1424,12 @@ SOFTWARE.
 <br />
 
 ```
- ██████╗     ████████╗███████╗ ██████╗██████╗ ███████╗ █████╗ ████████╗███████╗███████╗
-®╚══██╔╝     ╚══██╔══╝██╔════╝██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔════╝██╔════╝
-    ██║         ██║   ███████╗██║     ██████╔╝█████╗  ███████║   ██║   █████╗  ███████╗
-    ██║         ██║   ╚════██║██║     ██╔══██╗██╔══╝  ██╔══██║   ██║   ██╔══╝  ╚════██║
-    ██║         ██║   ███████║╚██████╗██║  ██║███████╗██║  ██║   ██║   ███████╗███████║
-    ╚═╝         ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
+             ████████╗███████╗ ██████╗██████╗ ███████╗ █████╗ ████████╗███████╗███████╗
+®            ╚══██╔══╝██╔════╝██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔════╝██╔════╝
+                ██║   ███████╗██║     ██████╔╝█████╗  ███████║   ██║   █████╗  ███████╗
+                ██║   ╚════██║██║     ██╔══██╗██╔══╝  ██╔══██║   ██║   ██╔══╝  ╚════██║
+                ██║   ███████║╚██████╗██║  ██║███████╗██║  ██║   ██║   ███████╗███████║
+                ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
 ```
 
 **®TSCREATES** &nbsp;·&nbsp; Designer. Developer. Builder.
@@ -1438,7 +1438,7 @@ SOFTWARE.
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-®TSCREATES-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/tscreates)
+[![GitHub](https://img.shields.io/badge/GitHub-®TSCREATES-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/TSCREATES-copyright)
 
 <br />
 
@@ -1464,7 +1464,7 @@ Just color science — fast, local, and trustworthy.
 
 <br />
 
-[![Star on GitHub](https://img.shields.io/github/stars/tscreates/colorharmony?style=for-the-badge&logo=github&labelColor=black&color=ff00ff)](https://github.com/tscreates/colorharmony)
+[![Star on GitHub](https://img.shields.io/github/stars/TSCREATES-copyright/colorharmony?style=for-the-badge&logo=github&labelColor=black&color=ff00ff)](https://github.com/TSCREATES-copyright/colorharmony)
 
 <br />
 
